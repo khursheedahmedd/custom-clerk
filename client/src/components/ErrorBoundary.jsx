@@ -28,7 +28,7 @@ class ErrorBoundary extends Component {
               Refresh Page
             </button>
           </div>
-        </div>
+        </div> 
       );
     }
 
